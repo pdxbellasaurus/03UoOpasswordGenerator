@@ -1,6 +1,6 @@
 # 03 Javascript Password Generator
 
-Launch Password Generator
+Launch Password Generator(https://pdxbellasaurus.github.io/03UoOpasswordGenerator/)
 
 ## Description
 This week’s homework rwas a task to modify starter code to create an application that enables users to generate random passwords based on criteria that they’ve selected. 
